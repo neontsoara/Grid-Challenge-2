@@ -1,0 +1,56 @@
+body {
+    
+}
+
+/* styling of the whole div container */
+.container {
+    position: fixed;
+    max-width: 320px;
+    height: 100vh;
+    background-color: black;
+    margin: 0;
+    
+}
+
+/* main image which is of myself */
+#me {
+    width: 50%;
+    height: 50%;
+    margin: 25%;
+}
+
+/* heading tags */
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+/* my specific groups which will hover and visit */
+#navbar {  
+    font-size: 35px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+/* styling of the images */
+.masonry {
+    
+    margin-left: 330px;
+    column-count: 2;
+    width: 76vw;
+    height: auto;
+}
+
+.masonry > img {
+    width: 100%;
+    vertical-align: center;
+}
+
+href a:hover 
